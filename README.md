@@ -5,7 +5,7 @@
 # 💫 About Me:
 I am a professional front-end developer. I can create new animations using CSS and JavaScript and work according to the user interface and use Gsap animations to enhance the beauty of the website and work towards fast loading. I am very careful about my work.
 
-Skills: Html || css || javascript || react || Next.js || jQuery/jQuery Pluging & UI || bootstrap/tailwind  || Gsap/sass || figma/psd/xd to html || Responsive Web Design
+Skills: Html || css || javascript || react || Next.js || jQuery/jQuery Pluging & UI || bootstrap/tailwind  || Gsap/sass || figma/psd/xd to html || Responsive Web Design <br>
 🔭 I’m currently working on Upwork & Jooble<br>🌱 I’m currently learning DSA & BlockChain<br>💬 Ask me about Front End Development <br>⚡ Fun fact I am Lazy but very Smart
 
 ### Please Visit My Personal Portfolio Webstie : https://sitamim.netlify.app/
