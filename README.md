@@ -1,4 +1,4 @@
-![I am Front End Developer](https://media.licdn.com/dms/image/D4E16AQFAIlcAhoYcEw/profile-displaybackgroundimage-shrink_350_1400/0/1696618482767?e=1702512000&v=beta&t=PkxN8DL6pPPl0H85pen1yqcKCq3QGxPosKT8Cb5py2c)
+
 ### Hi there 👋, I am Si Tamim
 #### I am Front End Developer
 
