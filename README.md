@@ -1,6 +1,6 @@
 
 ### Hi there 👋, I am Si Tamim
-#### I am Front End Developer
+#### I am Full Stack Developer
 
 # 💫 About Me:
 I am a professional front-end developer. I can create new animations using CSS and JavaScript and work according to the user interface and use Gsap animations to enhance the beauty of the website and work towards fast loading. I am very careful about my work.
